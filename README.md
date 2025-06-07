@@ -23,7 +23,7 @@ pip install speedtest-cli
 ```
 ## ▶️ How to Run
 ```bash
-python internet_speed_tester.py
+python main.py
 ```
 ## 📸 GUI Preview
 ![Screenshot](./Screenshot.png)
