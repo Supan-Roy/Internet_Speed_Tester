@@ -27,3 +27,8 @@ python internet_speed_tester.py
 ```
 ## 📸 GUI Preview
 ![Screenshot](./Screenshot.png)
+
+## 💡 Credits
+- Built by Supan Roy
+- Fonts: Amazon Ember, Spotify Mix
+- Internet speed via speedtest-cli
